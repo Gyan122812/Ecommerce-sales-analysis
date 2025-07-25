@@ -40,6 +40,9 @@ notebooks/           # Jupyter notebooks for each analysis stage
 dashboard/           # Power BI / Tableau file
 images/              # saved plots and visuals
 README.md            # project documentation
+```
+
+
 
 ---
 
